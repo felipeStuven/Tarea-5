@@ -1,0 +1,13 @@
+
+[
+  { "year": 2015, "cases": 1200, "avg_age": 18 },
+  { "year": 2016, "cases": 1350, "avg_age": 19 },
+  { "year": 2017, "cases": 1500, "avg_age": 20 },
+  { "year": 2018, "cases": 1600, "avg_age": 19 },
+  { "year": 2019, "cases": 1750, "avg_age": 21 },
+  { "year": 2020, "cases": 2100, "avg_age": 22 },
+  { "year": 2021, "cases": 2500, "avg_age": 21 },
+  { "year": 2022, "cases": 2400, "avg_age": 20 },
+  { "year": 2023, "cases": 2600, "avg_age": 22 },
+  { "year": 2024, "cases": 2800, "avg_age": 23 }
+]
